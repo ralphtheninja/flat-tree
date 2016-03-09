@@ -1,0 +1,8 @@
+[package]
+name = "flat-tree"
+version = "1.0.0"
+authors = ["Mathias Buus <mathiasbuus@gmail.com>"]
+repository = "https://github.com/mafintosh/flat-tree-rs"
+keywords = ["flat", "tree", "binary"]
+readme = "README.md"
+license = "MIT"
