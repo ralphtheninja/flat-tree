@@ -2,6 +2,8 @@
 
 Rust version of [flat-tree](https://github.com/mafintosh/flat-tree). A series of functions to map a binary tree to a list
 
+[![build status](http://img.shields.io/travis/mafintosh/flat-tree-rs.svg?style=flat)](http://travis-ci.org/mafintosh/flat-tree-rs)
+
 ## Usage
 
 ``` rs
