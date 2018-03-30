@@ -73,8 +73,7 @@ Returns how many nodes are in the tree that the node spans
 Returns all the previous fully rooted trees before the node
 
 ## License
-
-MIT
+[MIT](./LICENSE-MIT) OR [Apache-2.0](./LICENSE-APACHE)
 
 [1]: https://img.shields.io/crates/v/flat-tree.svg?style=flat-square
 [2]: https://crates.io/crate/flat-tree
