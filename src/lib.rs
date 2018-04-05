@@ -72,6 +72,9 @@ pub fn offset_with_depth(i: usize, depth: usize) -> usize {
 /// assert_eq!(flat_tree::offset(2), 1);
 /// assert_eq!(flat_tree::offset(3), 0);
 /// assert_eq!(flat_tree::offset(4), 2);
+/// assert_eq!(flat_tree::offset(11), 1);
+/// assert_eq!(flat_tree::offset(19), 2);
+/// assert_eq!(flat_tree::offset(39), 2);
 /// ```
 pub fn offset(i: usize) -> usize {
   offset_with_depth(i, depth(i))
